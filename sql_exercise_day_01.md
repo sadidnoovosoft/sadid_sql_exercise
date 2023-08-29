@@ -1,6 +1,6 @@
 1. How can you retrieve all the information from the cd.facilities table?
 
-![img_2.png](./images/img_2.png)
+![img_2.png](images/img_2.png)
 
 2. You want to print out a list of all of the facilities and their cost to members. How would you retrieve a list of only facility names and costs?
 
