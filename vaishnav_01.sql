@@ -8,5 +8,3 @@ where c.country_id = 8
 group by f.film_id
 order by count desc
 limit 10;
-
-select * from country where country_id = 8 or country_id = 20;
