@@ -2,5 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/sadid_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/shreyash_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/tejas_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vaishnav_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vaishnav_02.sql" dialect="GenericSQL" />
   </component>
 </project>
