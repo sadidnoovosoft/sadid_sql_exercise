@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/harshit_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/harshit_02.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/nandini_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/nandini_02.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/pulkit_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/pulkit_02.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql_question_solutions/sadid_01.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql_question_solutions/sadid_02.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql_question_solutions/shreyash_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/shreyash_02.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql_question_solutions/tejas_01.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql_question_solutions/tejas_02.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql_question_solutions/vaishnav_01.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql_question_solutions/vaishnav_02.sql" dialect="GenericSQL" />
   </component>
